@@ -6,6 +6,7 @@ TO DO:
 1. Multithread this model to reduce runtime
 2. Make user friendly inputs for color, location, and amount of solution(s).
 3. Implement for 3D.
+4. Remove periodic boundary conditions.
 
 -----------------------
 FEATURES:
